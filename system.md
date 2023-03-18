@@ -10,7 +10,7 @@ The centers are split into:
 
 - Body Strength: A traditional view of "strength." How much mass a character can move, how much force they can hit with, etc.
 - Body Awareness: Agility. How accurately a character can move and contort their body to perform various actions
-- Social Strength: Speech Giving, Pursuassion, Bartering. How well a character can communicate thoughts and emotions to another.
+- Social Strength: Speech Giving, Pursuassion, Bartering. How well a character can communicate thoughts and emotions to another and influence that person's decisions.
 - Social Awareness: Empathy, Sympathy, Insight. How well a character can perceive others' intentions, actions, words, and how the character is being perceived.
 - Mental Strength: Puzzling, Cartography, Navigation, Deciphering. How well a character can reason about things.
 - Mental Awareness: Sensing, Seeing, Hearing, Smelling, Researching. How well a character can gather information from the outside world.
