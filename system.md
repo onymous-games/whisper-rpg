@@ -62,7 +62,25 @@ Every roll should mean something. Listen to your players for whether this roll w
 
 ## Skills
 
-TODO
+Skills are simply common combinations of attributes that would be useful to have around. Below is a list of all skills plus their attribute combintations. Instead of recalculating this, just go to the character maker (TODO) and plug in your character's attributes. 
+
+- Hit points (HP): BS + MS + 10
+- Armor Class (AC): BA + SA + 10
+
+- Melee Attack: BS + BA
+- Ranged Attack: MS + MA
+
+- Initiative: MA + BA + SA
+
+- Stealth: (BA + MA + SA) / 3
+- Pursuassion: (SS * 2) + SA
+- Intuition: SA
+
+- Lock Picking: MS + MA
+
+- Healing: (BA + MA + (MS * 2)) / 3
+
+- Movement Speed: 5
 
 ## Proficiencies
 
@@ -70,18 +88,70 @@ TODO
 
 ## Items
 
-TODO
+Items such as daggers, armor, spy glasses are represented on cards. These cards contain all rules for how to use that item including how many limbs that item takes up, its intended purpose, attribute requirements, etc. 
+
+Your character must meet all requirements in order to use the item effectively. If your character does not meet all requirements, the DM may decide how the item applies. For instance:
+- Your character doesn't meet the BA requirements, so the DM decides that on a fail of 4 or more, your character deals damage to themselves instead of the opponent. 
+- Perhaps your character attempts to use two spears at once (which would require four hands). In this case, you have + 1 damage when you hit, but -4 chance to hit.
+- Maybe your character attempts to wear two sets of armour at one time. You're asked to role a D20. On anything below 10, the second set of armour is damaged. 10-19, it's simply impossible to get it on. On a 20, you can wear both sets of armour at once, but you have to have the BA necessary or you can't move at all.
+
+Here's an example item:
+
+```
+Assassin's Dagger:
+
+Requirements:
+- One hand
+- BA: 2
+- MA: 3
+
+Melee Attack Damage: 1 D12 + 1
+Ranged Attack Damage: 2 D8
+```
+
+```
+Chainmail Armour:
+
+Requirements:
+- Covers full body except head, feet, hands.
+- BA: 1
+
+AC: +2
+Sneak: -2
+```
 
 ## An aside on classes and races
 
 The first time I played a classless, raceless system I was shocked by how excellent it was to focus on those as story telling elements instead of elements that effect stats.
 
-In playing Cairn, I was an outlaw named Loop. Instead of having special sneaking abilities, I was able to play out the intentions of an outlaw being in a band of people out to rescue the king's son. Upon meeting another rescue party, I attempted to rob them while they were sleeping - something I would never have done if I had been a classic "rogue" class.
+In playing Cairn, I was an outlaw named Loop. Because there were no special abilities associated with that background, I focussed on playing out the intentions of an outlaw being in a band of people out to rescue the king's son. Upon meeting another rescue party, I attempted to rob them while they were sleeping. The adventuring party laughed as I looted dead bodies smelling strongly of vommit. The experience was different for the group *because* I was an outlaw. When I've played rogues in the past, I have tended to stick to lawful good - focussing on skillset. This was a much more full role playing experience
 
-In playing Vaeson, I was a fey changling named Chad Chadbourne. I was part of a monster hunting group that hunted all sorts of dark creatures - including the fey. Playing out having to hide my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding.
+In playing Vaeson, I was a fey changling named Chad Chadbourne. I was part of a monster hunting group that hunted all sorts of dark creatures - including the fey. Playing out hiding my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding. I normally play fey/elf/spiritually-in-tune creatures when I play a TTRPG, but this was the first time that my background played into how I interacted with the world. All without a focus on "choosing an elf cause it gives me better dexterity."
 
 In both of these scenarios, the class and race drew me further in to playing out the character. Your character should have a rich background. That background should be central to how you play out your character, not a means to a better attribute.
 
-Lastly, associating races and attributes does not translate well beyond a fantasy world of elves and dwarves. That however is a discussion for another day.
+As an aside to this aside, associating races and attributes does not translate well beyond a fantasy world of elves and dwarves. That, however, is a discussion for another day.
 
 # Combat
+
+## Taking a turn
+
+Every character roles for initiative (Initiative skill + D20). Players take turns in order of initiative from highest to lowest. In the case of a tie, the side that started the combat goes first.
+
+Once turn order is established, each character can move up to their full movement (normally 5 spaces [25 feet]) and take an action. Theoretically, turns should be 5 seconds long.
+
+### Attacking
+
+When your character makes an attack, they roll 3 D6 and add them up. If that number is greater than the target's AC, you hit.
+
+Weapons specify how to roll damage. If you're using an unusual object as a weapon, the DM specifies how to roll damage.
+
+### Doing something other than attacking
+
+You are not restricted to attacks. You can also:
+
+- Dodge: Give the first attack against your character disadvantage.
+- Dash: Take up to your character's full movement again.
+- Anything else that your character could do within 5 second.
+- Start doing something that will take more than 5 seconds.
+
