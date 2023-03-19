@@ -209,7 +209,6 @@ Skills are common combinations of attributes that would be useful to have around
 
 - Hit points (HP): BS + MS + 10
 - Armor Class (AC): BA + SA + 10
-- Focus (FS): MS + 10
 
 - Melee Attacks:
     - Sharp Weapon: BA
@@ -259,6 +258,10 @@ Skills are common combinations of attributes that would be useful to have around
 | Plate | 3 | -1 to Sneak rolls | BS 4 | 1GP |
 
 ### Magic
+
+Magic is usually central to the mythos of the world itself. It's improbable that I could introduce any standard system without limiting the world building the Universe would want to create. So, the section on magic belongs in the Guideline Tables.
+
+- Focus (FS): MS + 10
 
 In this world, magic is just knowledge most people don't have. That magic is stored in tomes and scrolls accessible to anyone with the right attributes.
 
