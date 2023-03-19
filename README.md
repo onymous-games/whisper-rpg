@@ -209,6 +209,7 @@ Skills are common combinations of attributes that would be useful to have around
 
 - Hit points (HP): BS + MS + 10
 - Armor Class (AC): BA + SA + 10
+- Focus (FS): MS + 10
 
 - Melee Attacks:
     - Sharp Weapon: BA
@@ -232,7 +233,7 @@ Skills are common combinations of attributes that would be useful to have around
 
 ### Weapons
 
-| Item Name | Type | Melee Damage | Ranged Damage | Hands Required | Attribute Requirements | Worth |
+| Weapon | Type | Melee Damage | Ranged Damage | Hands Required | Attribute Requirements | Worth |
 | - | - | - | - | - | - | - |
 | Dagger | Sharp Weapon | 1D6 | 1D4 | 1 |  | 1 GP |
 | Short Sword | Sharp Weapon | 2D4 | 1D4 | 1 | BA 1 | 2 GP |
@@ -248,3 +249,36 @@ Skills are common combinations of attributes that would be useful to have around
 | Small Bow | Ranged Weapon | | 1D8 | 2 | BS 1 | 2 GP |
 | Long Bow | Ranged Weapon | | 1D12 | 2 | BS 3 | 10 GP |
 
+### Armor
+
+| Armor Name | AC Advantage | Other Effects | Attribute Requirements | Worth |
+| - | - | - | - | - | 
+| Cloth | 0 | | | 1GP |
+| Leather | 1 | | BS 1 | 1GP |
+| Chainmail | 2 | -1 to Sneak rolls | BS 2 | 1GP |
+| Plate | 3 | -1 to Sneak rolls | BS 4 | 1GP |
+
+### Magic
+
+In this world, magic is just knowledge most people don't have. That magic is stored in tomes and scrolls accessible to anyone with the right attributes.
+
+When you use a Tome or Scroll, you 
+
+Useage:
+- Scrolls are useable only once, but require less attributes.
+- Tomes are useable forever as long as the character carries the Tome with them.
+- Both Tomes and Scrolls are used as actions.
+
+| Name | Effect | Attributes Required | Worth
+| - | - | - | - |
+| Tome of Minor Healing | Make a ranged attack to Heal 1D4 of Target's HP as an action | BA 1, MS 1 | 200 GP |
+| Tome of Conjure Familiar | Conjure a spirit like creature which will do simple tasks for you | 
+
+### Other
+
+| Name | Effect | Hands required | Attributes Required | Uses till Useless | Worth
+| - | - | - | - | - | - |
+| Potion of Minor Healing | Heal 1D4 HP as an action | | | 1 | 10 GP |
+| Potion of Healing | Heal 1D6 HP as an action | | | 1 | 20 GP |
+| Potion of Greater Healing | Heal 4D4 HP as an action | | | 1 | 30 GP |
+| Stabilization Kit | Gain +3 to Stabiliztion rolls | | | | 20 GP |
