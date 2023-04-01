@@ -1,32 +1,32 @@
 # What is this?
 
-Centragram is an extensible table-top roleplaying system that focuses on story telling and new player accessibility. 
+Centragram is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. 
 
 ## About extensibility
 
-Often the breadth of a role playing system encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun, but can be tedious and time consuming.
+Often the breadth of a role-playing system encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun but can be tedious and time consuming.
 
 Centragram meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
 
-## About story-telling
+## About storytelling
 
-The ethos of centragram is to distill the ruleset into something so digestable that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
+The ethos of centragram is to distill the ruleset into something so digestible that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
 
-By minimizing the flashiness of the official rules, it encourages experimentation from players. "What happens if I drop a candle on the ice warrior instead of attacking with my mace?" "Can this drawbridge be raised before the zombies get in? Are they stupid enough to run into the pit of aligators? Will that make zombie alligators?" These are just some of the questions I'd like to encourage.
+By minimizing the flashiness of the official rules, it encourages experimentation from players. "What happens if I drop a candle on the ice warrior instead of attacking with my mace?" "Can this drawbridge be raised before the zombies get in? Are they stupid enough to run into the pit of alligators? Will that make zombie alligators?" These are just some of the questions I'd like to encourage.
 
 ## About new player accessibility
 
-Unless agreed otherwise, no characters have to roll for their stats. There's no rolling for starting equipment. The only thing you need to decide is your character's name.
+Unless agreed otherwise, no characters must roll for their stats. There's no rolling for starting equipment. The only thing you need to decide is your character's name.
 
-I thought of this when I played a campaign with a number of people who had never engaged in a role playing game before. They chose classes and races that ultimately dissapointed them later. For instance, a player's orc barbarian kept deciding to having delicate arguments with people, yet had no social grace. Had they had experience, they may have chosen something else.
+I thought of this when I played a campaign with a number of people who had never engaged in a role-playing game before. They chose classes and races that ultimately disapointed them later. For instance, a player's orc barbarian kept deciding to having delicate arguments with people yet had no social grace. Had they had experience, they may have chosen something else.
 
-Expecting new players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, Centragram is built such that you decide skills after you've started using them.
+Expecting inexperienced players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, Centragram is built such that you decide skills after you've started using them.
 
 ## About this document
 
-There are three sections to this document, Attributes, Combat, and Skills. The Attributes section contains info on character creation, leveling, how to roll for things, and how to use items. The Combat section extends the attributes section to allow for turn-based narration. As the most common turn-based narration is a fight scene, this section is labeled Combat. It dives into attacking, defending, and what it looks like to die. Extension of the Combat system to include other turn-based narration scenarios is welcome. Last are the Skills. These are common sets of rolls that a player may make in the course of a game. It's useful to have these written down so that the Universe doesn't have to figure out how to make people roll for something every time it happens.
+There are three sections to this document, Attributes, Combat, and Skills. The Attributes section holds info on character creation, leveling, how to roll for things, and how to use items. The Combat section extends the attributes section to allow for turn-based narration. As the most common turn-based narration is a fight scene, this section is labeled Combat. It dives into attacking, defending, and what it looks like to die. Extension of the Combat system to include other turn-based narration scenarios is welcome. Last are the Skills. These are common sets of rolls that a player may make during a game. It's useful to have these written down so that the Universe doesn't have to figure out how to make people roll for something every time it happens.
 
-All that is needed to start playing is someone to play the roll of the Universe (the player playing the Universe is hereafter reffered to as "Universe") and one or more people to play a set of characters living in the world.
+All you need to start playing is someone to play the role of the Universe (the player playing the Universe is hereafter referred to as "Universe") and one or more people to play a set of characters living in the world.
 
 > Note: The Universe is analogous to a Dungeon Master or Game Master. These terms feel a bit antiquated to me, having lived through changes in terminology in the software engineering field. "Universe" is more accurate to the role that a DM/GM fulfills. It's not that they've subjugated something. It's that they inhabit and embody something.
 
@@ -40,18 +40,18 @@ There are three centers of intelligence:
 Each center governs how well a character will interact with their surroundings in the various situations they may come across.
 
 The centers are split into:
-- Strength - how well a character can effect the world through that center and 
+- Strength - how well a character can affect the world through that center and 
 - Awareness - how well a character can perceive the world through that center.
 
-These centers are derived from the "centers of intelligence" in the [eneagram](https://www.enneagraminstitute.com/type-descriptions). These distinctions of thinking, feeling, and instinct have guided a lot of how characters are differentiated. While strength and awareness are absent from the original eneagram description, adding them to a role playing setting gives characters additional depth which would otherwise be missing.
+These centers are derived from the "centers of intelligence" in the [enneagram](https://www.enneagraminstitute.com/type-descriptions). These distinctions of thinking, feeling, and instinct have guided a lot of how characters are differentiated. While strength and awareness are absent from the original enneagram description, adding them to a role-playing setting gives characters additional depth which would otherwise be missing.
 
 ## Attribute descriptions
 
 Playing as the Universe, you will make decisions on how character's attributes interact with their choices. Don't focus on getting it "right" every time. There are many times a character may choose something interpretable in many ways.
 
 - Body Strength: A traditional view of "strength." How much mass a character can move, how much force they can hit with, etc.
-- Body Awareness: Agility. How accurately a character can move and contort their body to perform various actions
-- Social Strength: Speech Giving, Pursuassion, Bartering. How well a character can communicate thoughts and emotions to another and influence that person's decisions.
+- Body Awareness: Agility. How accurately a character can move and contort their body to perform various actions.
+- Social Strength: Speech Giving, Persuasion, Bartering. How well a character can communicate thoughts and emotions to another and influence that person's decisions.
 - Social Awareness: Empathy, Sympathy, Insight. How well a character can perceive others' intentions, actions, words, and how the character is being perceived.
 - Mental Strength: Puzzling, Cartography, Navigation, Deciphering. How well a character can reason about things.
 - Mental Awareness: Sensing, Seeing, Hearing, Smelling, Researching. How well a character can gather information from the outside world.
@@ -91,13 +91,13 @@ There are many common skills in games - cooking, sneaking, melee attacks, and ra
 
 It may be tempting to hand your players a puzzle, then have them roll MS to figure out how to solve it. Sometimes dumb characters make smart moves. If a player finds the answer, they should be allowed to progress the story. Especially if they can find a way for the solution to fit into the character they are playing.
 
-It might also be tempting to have players roll for persuassion. This is more acceptable, but needs to be done in the right context. Sometimes your players make a brilliant speech - their characters should be able to say those words. When you roll for social strength, have it be about whether that was the right thing to say to that person. Maybe they made a really intimidating speech, but their character is wearing clothes which don't make it very intimidating coming out of their mouth. Maybe they said something really wise to convince George to stay, but they used the same words George's wife used right before she walked out on him.
+It might also be tempting to have players roll for persuasion. This is more acceptable but needs to be done in the right context. Sometimes your players make a brilliant speech - their characters should be able to say those words. When you roll for social strength, have it be about whether that was the right thing to say to that person. Maybe they made a really intimidating speech, but their character is wearing clothes which don't make it very intimidating coming out of their mouth. Maybe they said something really wise to convince George to stay, but they used the same words George's wife used right before she walked out on him.
 
 In general, these attributes never alter the player's actions for their character - only the outcomes.
 
 ### Ask players to roll first before narration
 
-Especially in social settings, having your players roll before their characters speak can give insight into how they should play out the scene. Taking the pursuassion example above, instead of trying to explain why a brilliant speech fell on deaf ears, ask the player to roll for pursuassion. If they roll low, the player can voluntarily contribute a shody speech which falls easily into the narration of the story.
+Especially in social settings, having your players roll before their characters speak can give insight into how they should play out the scene. Taking the persuasion example above, instead of trying to explain why a brilliant speech fell on deaf ears, ask the player to roll for persuasion. If they roll low, the player can voluntarily contribute a shoddy speech which falls easily into the narration of the story.
 
 ### Not rolling for everything
 
@@ -107,14 +107,14 @@ Every roll should mean something. Listen to your players for whether this roll w
 
 ## Items
 
-Items such as daggers, armor, spy glasses are represented on cards. These cards contain all rules for how to use that item including how many limbs that item takes up, its intended purpose, attribute requirements, etc. 
+Items such as daggers, armor, spy glasses are represented on cards. These cards hold all rules for how to use that item including how many limbs that item takes up, its intended purpose, attribute requirements, etc. 
 
 Your character must meet all requirements in order to use the item effectively. If your character does not meet all requirements, the Universe may decide how the item applies. 
 
 For instance:
-- Your character doesn't meet the BA requirements, so the Universe decides that on a fail of 4 or more, your character deals damage to themselves instead of the opponent. 
+- Your character doesn't meet the BA requirements, so the Universe decides that on a failure of 4 or more, your character deals damage to themselves instead of the opponent. 
 - Perhaps your character attempts to use two spears at once (which would require four hands). In this case, you have + 1 damage when you hit, but -4 chance to hit.
-- Maybe your character attempts to wear two sets of armour at one time. You're asked to role a D20. On anything below 10, the second set of armour is damaged. 10-19, it's simply impossible to get it on. On a 20, you can wear both sets of armour at once, but you have to have the BA necessary or you can't move at all.
+- Maybe your character attempts to wear two sets of armor at one time. You're asked to role a D20. On anything below 10, the second set of armor is damaged. 10-19, it's simply impossible to get it on. On a 20, you can wear both sets of armor at once, but you have to have the BA necessary or you can't move at all.
 
 Here's an example item:
 
@@ -131,7 +131,7 @@ Ranged Attack Damage: 2 D8
 ```
 
 ```
-Chainmail Armour:
+Chainmail Armor:
 
 Requirements:
 - Covers full body except head, feet, hands.
@@ -143,11 +143,11 @@ Sneak: -2
 
 ## An aside on classes and races
 
-The first time I played a classless, raceless system I was shocked by how excellent it was to focus on those as story telling elements instead of elements that effect stats.
+The first time I played a classless, raceless system I was shocked by how excellent it was to focus on those as storytelling elements instead of elements that effect stats.
 
-In playing Cairn, I was an outlaw named Loop. Because there were no special abilities associated with that background, I focussed on playing out the intentions of an outlaw being in a band of people out to rescue the king's son. Upon meeting another rescue party, I attempted to rob them while they were sleeping. The adventuring party laughed as I looted dead bodies smelling strongly of vommit. The experience was different for the group *because* I was an outlaw. When I've played rogues in the past, I have tended to stick to lawful good - focussing on skillset. This was a much more full role playing experience
+In playing Cairn, I was an outlaw named Loop. Because there were no special abilities associated with that background, I focused on playing out the intentions of an outlaw being in a band of people out to rescue the king's son. Upon meeting another rescue party, I tried to rob them while they were sleeping. The adventuring party laughed as I looted dead bodies smelling strongly of vomit. The experience was different for the group *because* I was an outlaw. When I've played rogues in the past, I have tended to stick to lawful good - focusing on skillset. This was a much fuller role-playing experience
 
-In playing Vaeson, I was a fey changling named Chad Chadbourne. I was part of a monster hunting group that hunted all sorts of dark creatures - including the fey. Playing out hiding my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding. I normally play fey/elf/spiritually-in-tune creatures when I play a TTRPG, but this was the first time that my background played into how I interacted with the world. All without a focus on "choosing an elf cause it gives me better dexterity."
+In playing Vaeson, I was a fey changeling named Chad Chadbourne. I was part of a monster hunting group that hunted all sorts of dark creatures - including the fey. Playing out hiding my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding. I normally play fey/elf/spiritually-in-tune creatures when I play a TTRPG, but this was the first time that my background played into how I interacted with the world. All without a focus on "choosing an elf because it gives me better dexterity."
 
 In both of these scenarios, the class and race drew me further in to playing out the character. Your character should have a rich background. That background should be central to how you play out your character, not a means to a better attribute.
 
@@ -188,7 +188,7 @@ When a character levels up, they permanently add 1 to an attribute of their choo
 
 Every character roles for initiative (MA + BA + SA + D20). Players take turns in order of initiative from highest to lowest. In the case of a tie, the side that started the combat goes first. If the tie is on the same side of combat, they may choose who goes first.
 
-Once turn order is established, each character can move up to their full movement (normally 4 spaces [20 feet]) and take an action. Characters experience 5 seconds per turn regardless of how long the player takes.
+Once turn order is set up, each character can move up to their full movement (normally 4 spaces [20 feet]) and take an action. Characters experience 5 seconds per turn regardless of how long the player takes.
 
 ### Attacking
 
@@ -216,7 +216,7 @@ If an opponent rolls over your AC, they deal damage to your HP. Note your charac
 
 > Note: When you are dealt damage which makes you fall at or below 0, write down the actual amount it fell below 0. 
 
-- If your character's HP reaches 0, they are considered "Unconcious." Unconcious characters cannot move or take actions. 
+- If your character's HP reaches 0, they are considered "Unconscious." Unconscious characters cannot move or take actions. 
 - If their HP reaches -3, the character is considered "Bleeding out." Each round a character is Bleeding out, they lose 1 HP.
 - If a character reaches -10 HP, they are considered dead. Dead characters cannot be revived.
 
@@ -224,7 +224,7 @@ These rules mean that it is possible to kill a character in one hit. For instanc
 
 ### Stabilization
 
-Any concious character can take an action to stabilize a being that is bleeding out. To do so, the player rolls 3D6. If they roll higher than `7 + Number of Negative hitpoints target has acquired`, the target stops losing hitpoints after every round.
+Any conscious character can take an action to stabilize a being that is bleeding out. To do so, the player rolls 3D6. If they roll higher than `7 + Number of Negative hitpoints target has acquired`, the target stops losing hitpoints after every round.
 
 ## Resting
 
@@ -269,7 +269,7 @@ Skills are common combinations of attributes that would be useful to have around
 - Initiative: MA + BA + SA
 
 - Stealth: (BA + MA + SA) / 3
-- Pursuassion: (SS * 2) + SA
+- Persuasion: (SS * 2) + SA
 - Intuition: SA
 
 - Lock Picking: MS + MA
