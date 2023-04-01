@@ -1,26 +1,53 @@
 # What is this?
 
-This is a table top role playing system that focusses on the story-telling aspects of the game by having a slim set of rules.
+Centragram is an extensible table-top roleplaying system that focuses on story telling and new player accessibility. 
 
-- There is no technical side of character creation (No assigning attributes, rolling for stats or proficiencies).
-- Combat moves quickly (you can move and you can act)
-- Changing time periods just means creating weapons and items for your use case
+## About extensibility
 
-# About this document
+Often the breadth of a role playing system encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun, but can be tedious and time consuming.
 
-There are three sections to this document, Attributes, Combat, and Guideline Tables. The Attributes section contains info on character creation, leveling, how to roll for things, and how to use items. The Combat section extends the attributes section to allow for turn-based narration. As the most common turn-based narration is a fight scene, this section is labeled Combat. It dives into attacking, defending, and what it looks like to die. Extension of the Combat system to include other turn-based narration scenarios is welcome. Last is the Guideline Tables. These tables provide characters and players with standards for how the game can be utilized.
+Centragram meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
 
-All that is needed to start playing is someone to play the roll of the Universe (the player playing the Universe is hereafter reffered to as "Universe") and one or more people to play a set of characters living in the universe.
+## About story-telling
+
+The ethos of centragram is to distill the ruleset into something so digestable that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
+
+By minimizing the flashiness of the official rules, it encourages experimentation from players. "What happens if I drop a candle on the ice warrior instead of attacking with my mace?" "Can this drawbridge be raised before the zombies get in? Are they stupid enough to run into the pit of aligators? Will that make zombie alligators?" These are just some of the questions I'd like to encourage.
+
+## About new player accessibility
+
+Unless agreed otherwise, no characters have to roll for their stats. There's no rolling for starting equipment. The only thing you need to decide is your character's name.
+
+I thought of this when I played a campaign with a number of people who had never engaged in a role playing game before. They chose classes and races that ultimately dissapointed them later. For instance, a player's orc barbarian kept deciding to having delicate arguments with people, yet had no social grace. Had they had experience, they may have chosen something else.
+
+Expecting new players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, Centragram is built such that you decide skills after you've started using them.
+
+## About this document
+
+There are three sections to this document, Attributes, Combat, and Skills. The Attributes section contains info on character creation, leveling, how to roll for things, and how to use items. The Combat section extends the attributes section to allow for turn-based narration. As the most common turn-based narration is a fight scene, this section is labeled Combat. It dives into attacking, defending, and what it looks like to die. Extension of the Combat system to include other turn-based narration scenarios is welcome. Last are the Skills. These are common sets of rolls that a player may make in the course of a game. It's useful to have these written down so that the Universe doesn't have to figure out how to make people roll for something every time it happens.
+
+All that is needed to start playing is someone to play the roll of the Universe (the player playing the Universe is hereafter reffered to as "Universe") and one or more people to play a set of characters living in the world.
+
+> Note: The Universe is analogous to a Dungeon Master or Game Master. These terms feel a bit antiquated to me, having lived through changes in terminology in the software engineering field. "Universe" is more accurate to the role that a DM/GM fulfills. It's not that they've subjugated something. It's that they inhabit and embody something.
 
 # Attributes
 
-There are three centers of intelligence - body, mind, and social. Each center governs how well a character will interact with their surroundings in the various situations they may come across.
+There are three centers of intelligence:
+- Body
+- Mind
+- Social
+
+Each center governs how well a character will interact with their surroundings in the various situations they may come across.
 
 The centers are split into:
-- "strength" - how well a character can effect the world through that center and 
-- "awareness" - how well a character can perceive the world through that center.
+- Strength - how well a character can effect the world through that center and 
+- Awareness - how well a character can perceive the world through that center.
+
+These centers are derived from the "centers of intelligence" in the [eneagram](https://www.enneagraminstitute.com/type-descriptions). These distinctions of thinking, feeling, and instinct have guided a lot of how characters are differentiated. While strength and awareness are absent from the original eneagram description, adding them to a role playing setting gives characters additional depth which would otherwise be missing.
 
 ## Attribute descriptions
+
+Playing as the Universe, you will make decisions on how character's attributes interact with their choices. Don't focus on getting it "right" every time. There are many times a character may choose something interpretable in many ways.
 
 - Body Strength: A traditional view of "strength." How much mass a character can move, how much force they can hit with, etc.
 - Body Awareness: Agility. How accurately a character can move and contort their body to perform various actions
@@ -31,7 +58,7 @@ The centers are split into:
 
 ## Attribute Shorthand
 
-It can get tedious writing out all characters of each attribute every time they are used. Instead, we combine the first letter of the attribute and the first letter of the dimension.
+It can be tedious writing out all characters of each attribute every time they are used. Instead, we combine the first letter of the attribute and the first letter of the dimension.
 
 - Body Strength: BS
 - Body Awareness: BA
@@ -52,7 +79,7 @@ Use the [probability tool](https://winstonpuckett.com/products/probability) to d
 
 2. Skill Roll
 
-*See the skill table below for a list of skills*
+> See the Skill section below for a list of skills
 
 There are often times when your players will attempt something with a more nuanced skill set necessary. In these circumstances, you can ask players to make a roll using whatever combination of attributes you prefer.
 
@@ -74,7 +101,7 @@ Especially in social settings, having your players roll before their characters 
 
 ### Not rolling for everything
 
-Make your players roll for things they care about. It may not be a roll to cook for your camp tonight, but if you're in town cooking rations, it might be exciting to roll for how many rations you can make before you'll have to return to town.
+Make your players roll for things they care about. It may not be a roll to cook for your camp tonight, but if you're in town cooking rations, it might be gripping to roll for how many rations you can make before you'll have to return to town.
 
 Every roll should mean something. Listen to your players for whether this roll will have an impact on their experience at the table.
 
@@ -82,7 +109,9 @@ Every roll should mean something. Listen to your players for whether this roll w
 
 Items such as daggers, armor, spy glasses are represented on cards. These cards contain all rules for how to use that item including how many limbs that item takes up, its intended purpose, attribute requirements, etc. 
 
-Your character must meet all requirements in order to use the item effectively. If your character does not meet all requirements, the Universe may decide how the item applies. For instance:
+Your character must meet all requirements in order to use the item effectively. If your character does not meet all requirements, the Universe may decide how the item applies. 
+
+For instance:
 - Your character doesn't meet the BA requirements, so the Universe decides that on a fail of 4 or more, your character deals damage to themselves instead of the opponent. 
 - Perhaps your character attempts to use two spears at once (which would require four hands). In this case, you have + 1 damage when you hit, but -4 chance to hit.
 - Maybe your character attempts to wear two sets of armour at one time. You're asked to role a D20. On anything below 10, the second set of armour is damaged. 10-19, it's simply impossible to get it on. On a 20, you can wear both sets of armour at once, but you have to have the BA necessary or you can't move at all.
@@ -124,15 +153,17 @@ In both of these scenarios, the class and race drew me further in to playing out
 
 As an aside to this aside, associating races and attributes does not translate well beyond a fantasy world of elves and dwarves. That, however, is a discussion for another day.
 
+You're always free to extend Centragram to include either classes or species. Make these choices significant to more than attributes and always be respectful of real-world cultures when you do.
+
 ## Creating a character
 
 There's nothing needed for character creation
 
-Technically, characters don't even need names to start out. Everyone starts at 0 for their attributes. This enables new players to get a feel for what sort of attributes they use most often. Then when they level, they have more awareness of what happens. However, for any sort of campaign, it is beneficial to list out a couple of things to drive the player toward certain actions.
+Technically, characters don't even need names to start out. Everyone starts at 0 for their attributes. This enables new players to get a feel for what sort of attributes they use most often. Then when they level, they have more awareness of what happens. 
 
-Here are some dimensions to give characters depth:
+
+Because it is immersive to give your characters depth, here are some dimensions you can consider asking of your character or your players:
 - Name
-- Purpose in joining up with the party
 - Greatest desire / fear
 - Profession
 - Background
@@ -141,10 +172,9 @@ Here are some dimensions to give characters depth:
 - Demeanor
 - Height / Weight / Age / Gender
 - Species (Human, Elf, Dwarf, Halfling, Orc, Kobold, Zombie with a dead rat, etc.)
+- Purpose in joining up with the party
 
-These dimensions should drive decisions around starting equipment. Work with your Universe to find out what would be reasonable for your character to start with.
-
-These dimensions could also help people 
+These dimensions should drive decisions around starting equipment. It is also perfectly acceptable to start with only the clothes on your character's back. Work with your Universe to find out what would be reasonable for your setting.
 
 ## Leveling
 
@@ -156,13 +186,13 @@ When a character levels up, they permanently add 1 to an attribute of their choo
 
 ## Taking a turn
 
-Every character roles for initiative (Initiative skill + D20). Players take turns in order of initiative from highest to lowest. In the case of a tie, the side that started the combat goes first.
+Every character roles for initiative (MA + BA + SA + D20). Players take turns in order of initiative from highest to lowest. In the case of a tie, the side that started the combat goes first. If the tie is on the same side of combat, they may choose who goes first.
 
-Once turn order is established, each character can move up to their full movement (normally 5 spaces [25 feet]) and take an action. Theoretically, turns should be 5 seconds long.
+Once turn order is established, each character can move up to their full movement (normally 4 spaces [20 feet]) and take an action. Characters experience 5 seconds per turn regardless of how long the player takes.
 
 ### Attacking
 
-Roll `3D6 + either melee or ranged attack modifier`. If that number is **over** the target's AC, roll damage.
+Roll `3D6 + attack modifier`. If that number is **over** the target's AC, roll damage.
 
 Damage:
 - Unarmed attacks are `1D4 + BS`
@@ -178,6 +208,7 @@ You are not restricted to attacks. You can also:
 - Stabilize Target: See *Stabilization* below.
 - Anything else that your character could do within 5 second.
 - Start doing something that will take more than 5 seconds.
+- Use magic (See the Magic section below)
 
 ## Defending
 
@@ -199,11 +230,30 @@ Any concious character can take an action to stabilize a being that is bleeding 
 
 Characters may regain HP by resting. To rest, characters need to reasonably believe that they will be safe for the next 8 hours. All players, including the Universe, need to agree that the characters would be able to rest. If all characters choose to rest in an unsafe space and wandering monsters engage the party, every monster gets to take a turn before the players can react.
 
-# Guideline Tables
+## Magic
 
-> Note: These tables may be altered by the Universe. Feel free to ask them if they are using these tables.
+It is improbable that I could give much definition to the magic section without overstepping the world building that could be done. Nevertheless, it may be helpful to have a basic, extensible magic system within the game so that you don't have to implement one from scratch if you don't want to.
 
-## Skills
+Here are the guidelines for magic:
+1. Magic just means "knowledge that not everyone has"
+1. Because it's "knowledge not everyone has" it's possible that if you lose the item telling you how to do it, you might also lose the ability to perform that magic.
+1. Magic is treated like items in that it requires hands, speech, etc. 
+1. Invoking a magical ability takes an action like any other. 
+1. There may be attribute requirements for invoking magic as well.
+
+Beyond that, the Universe may need to define what spells are available in the world.
+
+## Combat FAQ
+
+> How do I switch weapons?
+
+There is no penalty for switching weapons.
+
+> Do I need to keep track of arrows, ammo, etc?
+
+Most likely not. Ask the Universe.
+
+# Skills
 
 Skills are common combinations of attributes that would be useful to have around. Below is a list of all skills plus their attribute combinations. Instead of recalculating this, just go to the character maker (TODO) and plug in your character's attributes. 
 
@@ -227,61 +277,3 @@ Skills are common combinations of attributes that would be useful to have around
 - Healing: (BA + MA + (MS * 2)) / 3
 
 - Movement Speed: 5
-
-## Items
-
-### Weapons
-
-| Weapon | Type | Melee Damage | Ranged Damage | Hands Required | Attribute Requirements | Worth |
-| - | - | - | - | - | - | - |
-| Dagger | Sharp Weapon | 1D6 | 1D4 | 1 |  | 1 GP |
-| Short Sword | Sharp Weapon | 2D4 | 1D4 | 1 | BA 1 | 2 GP |
-| Long Sword | Sharp Weapon | 1D12 | 1D6 | 2 | BS 1 | 3 GP |
-| Rock | Blunt Weapon | 1D6 | 1D6 | 1 | | 0 GP |
-| Baton | Blunt Weapon | 1D4 | | 1 | | 0 GP |
-| Mace | Blunt Weapon | 1D12 | | 1 | BS 2 | 0 GP |
-| Staff | Pole Weapon | 1D6 | 1D4 | 2 | BA 1 | 1 GP |
-| Spear | Pole Weapon | 1D8 | 1D4 | 2 | | 1 GP |
-| Sling | Ranged Weapon |  | 1D6 | 1 | MA 1 | 2 GP |
-| Throwing Knives | Ranged Weapon | 1D4 | 1D6 | 1 | BA 1 | 2 GP |
-| Throwing Stars | Ranged Weapon | | 1D4 | 1 | | 5GP |
-| Small Bow | Ranged Weapon | | 1D8 | 2 | BS 1 | 2 GP |
-| Long Bow | Ranged Weapon | | 1D12 | 2 | BS 3 | 10 GP |
-
-### Armor
-
-| Armor Name | AC Advantage | Other Effects | Attribute Requirements | Worth |
-| - | - | - | - | - | 
-| Cloth | 0 | | | 1GP |
-| Leather | 1 | | BS 1 | 1GP |
-| Chainmail | 2 | -1 to Sneak rolls | BS 2 | 1GP |
-| Plate | 3 | -1 to Sneak rolls | BS 4 | 1GP |
-
-### Magic
-
-Magic is usually central to the mythos of the world itself. It's improbable that I could introduce any standard system without limiting the world building the Universe would want to create. So, the section on magic belongs in the Guideline Tables.
-
-- Focus (FS): MS + 10
-
-In this world, magic is just knowledge most people don't have. That magic is stored in tomes and scrolls accessible to anyone with the right attributes.
-
-When you use a Tome or Scroll, you 
-
-Useage:
-- Scrolls are useable only once, but require less attributes.
-- Tomes are useable forever as long as the character carries the Tome with them.
-- Both Tomes and Scrolls are used as actions.
-
-| Name | Effect | Attributes Required | Worth
-| - | - | - | - |
-| Tome of Minor Healing | Make a ranged attack to Heal 1D4 of Target's HP as an action | BA 1, MS 1 | 200 GP |
-| Tome of Conjure Familiar | Conjure a spirit like creature which will do simple tasks for you | 
-
-### Other
-
-| Name | Effect | Hands required | Attributes Required | Uses till Useless | Worth
-| - | - | - | - | - | - |
-| Potion of Minor Healing | Heal 1D4 HP as an action | | | 1 | 10 GP |
-| Potion of Healing | Heal 1D6 HP as an action | | | 1 | 20 GP |
-| Potion of Greater Healing | Heal 4D4 HP as an action | | | 1 | 30 GP |
-| Stabilization Kit | Gain +3 to Stabiliztion rolls | | | | 20 GP |
