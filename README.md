@@ -1,10 +1,10 @@
 # What is this?
 
-Twin-triad is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. 
+Twin-triad is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. It is built to be built upon, which means that it can easily serve as the basis for other role playing systems.
 
 ## About extensibility
 
-Often the breadth of a role-playing system encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun but can be tedious and time consuming.
+Often the breadth of role-playing systems encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun but can be tedious and time consuming.
 
 Twin-triad meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
 
@@ -147,7 +147,7 @@ The first time I played a classless, raceless system I was shocked by how excell
 
 In playing Cairn, I was an outlaw named Loop. Because there were no special abilities associated with that background, I focused on playing out the intentions of an outlaw being in a band of people out to rescue the king's son. Upon meeting another rescue party, I tried to rob them while they were sleeping. The adventuring party laughed as I looted dead bodies smelling strongly of vomit. The experience was different for the group *because* I was an outlaw. When I've played rogues in the past, I have tended to stick to lawful good - focusing on skillset. This was a much fuller role-playing experience
 
-In playing Vaeson, I was a fey changeling named Chad Chadbourne. I was part of a monster hunting group that hunted all sorts of dark creatures - including the fey. Playing out hiding my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding. I normally play fey/elf/spiritually-in-tune creatures when I play a TTRPG, but this was the first time that my background played into how I interacted with the world. All without a focus on "choosing an elf because it gives me better dexterity."
+In playing Vaeson, I was a fey changeling who was part of a monster hunting group. We hunted all sorts of dark creatures - including the fey. Playing out hiding my identity from the rest of the party and eternally searching for my heritage (my reason to join the hunting group) was incredibly rewarding. I normally play fey/elf/spiritually-in-tune creatures when I play a TTRPG, but this was the first time that my background played into how I interacted with the world. All without a focus on "choosing an elf because it gives me better dexterity."
 
 In both of these scenarios, the class and race drew me further in to playing out the character. Your character should have a rich background. That background should be central to how you play out your character, not a means to a better attribute.
 
@@ -161,7 +161,6 @@ There's nothing needed for character creation
 
 Technically, characters don't even need names to start out. Everyone starts at 0 for their attributes. This enables new players to get a feel for what sort of attributes they use most often. Then when they level, they have more awareness of what happens. 
 
-
 Because it is immersive to give your characters depth, here are some dimensions you can consider asking of your character or your players:
 - Name
 - Greatest desire / fear
@@ -174,11 +173,11 @@ Because it is immersive to give your characters depth, here are some dimensions 
 - Species (Human, Elf, Dwarf, Halfling, Orc, Kobold, Zombie with a dead rat, etc.)
 - Purpose in joining up with the party
 
-These dimensions should drive decisions around starting equipment. It is also perfectly acceptable to start with only the clothes on your character's back. Work with your Universe to find out what would be reasonable for your setting.
+These dimensions can drive decisions around starting equipment. It is also perfectly acceptable to start with only the clothes on your character's back. Work with your Universe to find out what would be reasonable for your setting.
 
 ## Leveling
 
-The Universe chooses when characters level up. This system does not impose XP or milestone based leveling - believing that the right choice differs per campaign. If this is your first campaign as Universe, I recommend milestone based leveling (characters level up at the end of each session).
+The Universe chooses when characters level up. Twin-triad does not impose XP or milestone based leveling, believing that the right choice differs per campaign. If this is your first campaign as Universe, I recommend milestone based leveling (characters level up at the end of each session).
 
 When a character levels up, they permanently add 1 to an attribute of their choosing.
 
@@ -214,7 +213,9 @@ You are not restricted to attacks. You can also:
 
 ## Defending
 
-If an opponent rolls over your AC, they deal damage to your HP. Note your character's current HP. 
+Characters start at 10 Hit Points (HP). When a character levels, their max HP is calculated as `BS + MS + 10`. In addition to HP, they start with 10 Armor Class (AC) and when they level, it is re-calculated at `BA + SA + 10`. Wearing Armor may increase a player's AC. Take this into consideration during combat.
+
+If an opponent rolls over your AC, they deal damage to your HP. When this happens, note your character's current HP.
 
 > Note: When you are dealt damage which makes you fall at or below 0, write down the actual amount it fell below 0. 
 
@@ -305,8 +306,9 @@ In this situation, there are two options:
 # Influences
 
 If you like twin-triad, you should check out some of its roots:
-- The [Enneagram](https://www.enneagraminstitute.com/) which influenced what attributes are part of the system.
-- [Cairn](https://cairnrpg.com/) which inspired the "magic as items" concept.
-- [Vaesen](https://www.amazon.com/Vaesen-Nordic-Horror-Roleplaying-Hardback/dp/9189143922) (this is a non-affiliate link to Amazon) which inspired "class and race as story telling elements."
-- [Dimension 20](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) which showed me that a table-top roleplaying game could mean more than battles with monsters.
-- [Melee](https://thefantasytrip.game/products/core-games/melee/) which proved that the simplicity of a system does not diminish its intrigue.
+- The [Enneagram](https://www.enneagraminstitute.com/), which influenced what attributes are part of the system.
+- [Cairn](https://cairnrpg.com/), which inspired the "magic as items" concept.
+- [Vaesen](https://www.amazon.com/Vaesen-Nordic-Horror-Roleplaying-Hardback/dp/9189143922) (this is a non-affiliate link to Amazon), which inspired "class and race as story telling elements."
+- [Dimension 20](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A), which showed me that a table-top roleplaying game could mean more than battles with monsters.
+- [Melee](https://thefantasytrip.game/products/core-games/melee/), which proved that the simplicity of a system does not diminish its intrigue.
+- Killing Monsters, which is the first table-top role playing system I played and cultivated my love for TTRPGs. There is no link for it.
