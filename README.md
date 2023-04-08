@@ -43,7 +43,7 @@ The centers are split into:
 - Strength - how well a character can affect the world through that center and 
 - Awareness - how well a character can perceive the world through that center.
 
-These centers are derived from the "centers of intelligence" in the [enneagram](https://www.enneagraminstitute.com/type-descriptions). These distinctions of thinking, feeling, and instinct have guided a lot of how characters are differentiated. While strength and awareness are absent from the original enneagram description, adding them to a role-playing setting gives characters additional depth which would otherwise be missing.
+These centers are derived from the "centers of intelligence" in the [Enneagram](https://www.Enneagraminstitute.com/type-descriptions). These distinctions of thinking, feeling, and instinct have guided a lot of how characters are differentiated. While strength and awareness are absent from the original Enneagram description, adding them to a role-playing setting gives characters additional depth which would otherwise be missing.
 
 ## Attribute descriptions
 
@@ -300,4 +300,13 @@ Note that this is different than standard magic in the game. Standard magic is k
 
 In this situation, there are two options:
 1. Because twin-triad is built on the Enneagram and the Enneagram makes little distinction between instinct and body, **a** correct way to do this is by using the Body Awareness attribute.
-1. Alternatively, just add an attribute for spirituality with strength and awareness. You could call it Aura for shorthand AS and AA.
+1. Alternatively, just add an attribute for spirituality with strength and awareness. You could call it Aura for shorthand AS and AA. Role AS for interaction with the spirit world and AA for knowledge/sense of the spirit world.
+
+# Influences
+
+If you like twin-triad, you should check out some of its roots:
+- The [Enneagram](https://www.enneagraminstitute.com/) which influenced what attributes are part of the system.
+- [Cairn](https://cairnrpg.com/) which inspired the "magic as items" concept.
+- [Vaesen](https://www.amazon.com/Vaesen-Nordic-Horror-Roleplaying-Hardback/dp/9189143922) (this is a non-affiliate link to Amazon) which inspired "class and race as story telling elements."
+- [Dimension 20](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A) which showed me that a table-top roleplaying game could mean more than battles with monsters.
+- [Melee](https://thefantasytrip.game/products/core-games/melee/) which proved that the simplicity of a system does not diminish its intrigue.
