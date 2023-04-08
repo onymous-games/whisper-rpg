@@ -1,16 +1,16 @@
 # What is this?
 
-Centragram is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. 
+Twin-triad is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. 
 
 ## About extensibility
 
 Often the breadth of a role-playing system encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun but can be tedious and time consuming.
 
-Centragram meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
+Twin-triad meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
 
 ## About storytelling
 
-The ethos of centragram is to distill the ruleset into something so digestible that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
+The ethos of twin-triad is to distill the ruleset into something so digestible that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
 
 By minimizing the flashiness of the official rules, it encourages experimentation from players. "What happens if I drop a candle on the ice warrior instead of attacking with my mace?" "Can this drawbridge be raised before the zombies get in? Are they stupid enough to run into the pit of alligators? Will that make zombie alligators?" These are just some of the questions I'd like to encourage.
 
@@ -20,7 +20,7 @@ Unless agreed otherwise, no characters must roll for their stats. There's no rol
 
 I thought of this when I played a campaign with a number of people who had never engaged in a role-playing game before. They chose classes and races that ultimately disapointed them later. For instance, a player's orc barbarian kept deciding to having delicate arguments with people yet had no social grace. Had they had experience, they may have chosen something else.
 
-Expecting inexperienced players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, Centragram is built such that you decide skills after you've started using them.
+Expecting inexperienced players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, twin-triad is built such that you decide skills after you've started using them.
 
 ## About this document
 
@@ -153,7 +153,7 @@ In both of these scenarios, the class and race drew me further in to playing out
 
 As an aside to this aside, associating races and attributes does not translate well beyond a fantasy world of elves and dwarves. That, however, is a discussion for another day.
 
-You're always free to extend Centragram to include either classes or species. Make these choices significant to more than attributes and always be respectful of real-world cultures when you do.
+You're always free to extend twin-triad to include either classes or species. Make these choices significant to more than attributes and always be respectful of real-world cultures when you do.
 
 ## Creating a character
 
@@ -194,6 +194,8 @@ Once turn order is set up, each character can move up to their full movement (no
 
 Roll `3D6 + attack modifier`. If that number is **over** the target's AC, roll damage.
 
+> Note: 3D6 is shorthand for "three six-sided dice." Likewise, 1D4 = "1 four-sided die."
+
 Damage:
 - Unarmed attacks are `1D4 + BS`
 - Attacks using an item as intended use the item's damage (Ex: Shooting an arrow from a bow does the bow's damage)
@@ -232,26 +234,16 @@ Characters may regain HP by resting. To rest, characters need to reasonably beli
 
 ## Magic
 
-It is improbable that I could give much definition to the magic section without overstepping the world building that could be done. Nevertheless, it may be helpful to have a basic, extensible magic system within the game so that you don't have to implement one from scratch if you don't want to.
+It is improbable that I could give much definition to the magic section without overstepping the world building a Universe desires to do themself. Nevertheless, it may be helpful to have a basic, extensible magic system within the game so that you don't have to implement one from scratch if you don't want to.
 
 Here are the guidelines for magic:
 1. Magic just means "knowledge that not everyone has"
 1. Because it's "knowledge not everyone has" it's possible that if you lose the item telling you how to do it, you might also lose the ability to perform that magic.
 1. Magic is treated like items in that it requires hands, speech, etc. 
-1. Invoking a magical ability takes an action like any other. 
 1. There may be attribute requirements for invoking magic as well.
+1. Invoking a magical ability takes an action like any other. 
 
-Beyond that, the Universe may need to define what spells are available in the world.
-
-## Combat FAQ
-
-> How do I switch weapons?
-
-There is no penalty for switching weapons.
-
-> Do I need to keep track of arrows, ammo, etc?
-
-Most likely not. Ask the Universe.
+Beyond that, the Universe needs to define what spells are available in the world.
 
 # Skills
 
@@ -276,4 +268,36 @@ Skills are common combinations of attributes that would be useful to have around
 
 - Healing: (BA + MA + (MS * 2)) / 3
 
-- Movement Speed: 5
+- Movement Speed: 4
+
+# FAQ
+
+> I keep seeing 3D6 or 1D12, what does that mean?
+
+Whenever you see a two numbers with a capital D in the middle, it refers to a dice roll. The left number refers to the number of dice and the right number refers to how many sides those dice have.
+
+For instance:
+- 3D6 = Three six-sided dice
+- 1D12 = One twelve-sided die
+
+If you see only a number on the right, it refers to the number of sides. Writing 1D12 is analogous to a D12.
+
+> How do I switch weapons in combat?
+
+There is no penalty for switching weapons. You can simply declare that you attack with an item in your inventory.
+
+> Do I need to keep track of arrows, ammo, etc?
+
+Most likely not. Ask the Universe.
+
+> Is there a limit to my inventory?
+
+There's nothing in the standard rules about this, but that can be a fun game mechanic if you want to impose it.
+
+> My game includes the supernatural, things like ghosts. How do I make my players roll for sensing those sorts of things?
+
+Note that this is different than standard magic in the game. Standard magic is knowledge most players don't have, and so relies on MS and MA. Occasionally, there is a heavy reliance on interaction with the spiritual world as a narative to the game.
+
+In this situation, there are two options:
+1. Because twin-triad is built on the Enneagram and the Enneagram makes little distinction between instinct and body, **a** correct way to do this is by using the Body Awareness attribute.
+1. Alternatively, just add an attribute for spirituality with strength and awareness. You could call it Aura for shorthand AS and AA.
