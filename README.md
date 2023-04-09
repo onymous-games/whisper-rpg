@@ -1,4 +1,4 @@
-# What is this?
+# Whisper TTRPG System
 
 Whisper is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. It is built to be built upon, which means that it can easily serve as the basis for other role playing systems.
 
