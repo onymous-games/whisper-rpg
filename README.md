@@ -303,6 +303,10 @@ In this situation, there are two options:
 1. Because Whisper is built on the Enneagram and the Enneagram makes little distinction between instinct and body, **a** correct way to do this is by using the Body Awareness attribute.
 1. Alternatively, just add an attribute for spirituality with strength and awareness. You could call it Aura for shorthand AS and AA. Role AS for interaction with the spirit world and AA for knowledge/sense of the spirit world.
 
+> Why is it called, "Whisper"?
+
+I've long been fascinated with the concept of a "muse" or "daemon" - an awareness that creativity stems from something spiritual, outside yourself. This TTRPG system aims to be the basis for other TTRPG systems. It acts as a muse for you to draw inspiration from while you craft your own worlds, "whispering" hints and guiding decisions.
+
 # Influences
 
 If you like Whisper, you should check out some of its roots:
