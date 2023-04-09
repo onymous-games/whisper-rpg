@@ -1,16 +1,16 @@
 # What is this?
 
-Twin-triad is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. It is built to be built upon, which means that it can easily serve as the basis for other role playing systems.
+Whisper is an extensible table-top roleplaying system that focuses on storytelling and new player accessibility. It is built to be built upon, which means that it can easily serve as the basis for other role playing systems.
 
 ## About extensibility
 
 Often the breadth of role-playing systems encourages experienced world builders to start from scratch and build a new system for their setting. Creating these systems is incredibly fun but can be tedious and time consuming.
 
-Twin-triad meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
+Whisper meets the need of world makers to reduce tedium and allow focus on the important bits: the uniqueness and intrigue of your world.
 
 ## About storytelling
 
-The ethos of twin-triad is to distill the ruleset into something so digestible that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
+The ethos of Whisper is to distill the ruleset into something so digestible that the rules can get out of the way of the story. Everyone at the table should understand the impact of everyone else's actions.
 
 By minimizing the flashiness of the official rules, it encourages experimentation from players. "What happens if I drop a candle on the ice warrior instead of attacking with my mace?" "Can this drawbridge be raised before the zombies get in? Are they stupid enough to run into the pit of alligators? Will that make zombie alligators?" These are just some of the questions I'd like to encourage.
 
@@ -20,7 +20,7 @@ Unless agreed otherwise, no characters must roll for their stats. There's no rol
 
 I thought of this when I played a campaign with a number of people who had never engaged in a role-playing game before. They chose classes and races that ultimately disapointed them later. For instance, a player's orc barbarian kept deciding to having delicate arguments with people yet had no social grace. Had they had experience, they may have chosen something else.
 
-Expecting inexperienced players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, twin-triad is built such that you decide skills after you've started using them.
+Expecting inexperienced players to take on roles for an entire campaign before they understand their choices is an unfair ask. Instead, Whisper is built such that you decide skills after you've started using them.
 
 ## About this document
 
@@ -153,7 +153,7 @@ In both of these scenarios, the class and race drew me further in to playing out
 
 As an aside to this aside, associating races and attributes does not translate well beyond a fantasy world of elves and dwarves. That, however, is a discussion for another day.
 
-You're always free to extend twin-triad to include either classes or species. Make these choices significant to more than attributes and always be respectful of real-world cultures when you do.
+You're always free to extend Whisper to include either classes or species. Make these choices significant to more than attributes and always be respectful of real-world cultures when you do.
 
 ## Creating a character
 
@@ -177,7 +177,7 @@ These dimensions can drive decisions around starting equipment. It is also perfe
 
 ## Leveling
 
-The Universe chooses when characters level up. Twin-triad does not impose XP or milestone based leveling, believing that the right choice differs per campaign. If this is your first campaign as Universe, I recommend milestone based leveling (characters level up at the end of each session).
+The Universe chooses when characters level up. Whisper does not impose XP or milestone based leveling, believing that the right choice differs per campaign. If this is your first campaign as Universe, I recommend milestone based leveling (characters level up at the end of each session).
 
 When a character levels up, they permanently add 1 to an attribute of their choosing.
 
@@ -300,12 +300,12 @@ There's nothing in the standard rules about this, but that can be a fun game mec
 Note that this is different than standard magic in the game. Standard magic is knowledge most players don't have, and so relies on MS and MA. Occasionally, there is a heavy reliance on interaction with the spiritual world as a narative to the game.
 
 In this situation, there are two options:
-1. Because twin-triad is built on the Enneagram and the Enneagram makes little distinction between instinct and body, **a** correct way to do this is by using the Body Awareness attribute.
+1. Because Whisper is built on the Enneagram and the Enneagram makes little distinction between instinct and body, **a** correct way to do this is by using the Body Awareness attribute.
 1. Alternatively, just add an attribute for spirituality with strength and awareness. You could call it Aura for shorthand AS and AA. Role AS for interaction with the spirit world and AA for knowledge/sense of the spirit world.
 
 # Influences
 
-If you like twin-triad, you should check out some of its roots:
+If you like Whisper, you should check out some of its roots:
 - The [Enneagram](https://www.enneagraminstitute.com/), which influenced what attributes are part of the system.
 - [Cairn](https://cairnrpg.com/), which inspired the "magic as items" concept.
 - [Vaesen](https://www.amazon.com/Vaesen-Nordic-Horror-Roleplaying-Hardback/dp/9189143922) (this is a non-affiliate link to Amazon), which inspired "class and race as story telling elements."
