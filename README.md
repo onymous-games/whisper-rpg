@@ -310,5 +310,5 @@ If you like twin-triad, you should check out some of its roots:
 - [Cairn](https://cairnrpg.com/), which inspired the "magic as items" concept.
 - [Vaesen](https://www.amazon.com/Vaesen-Nordic-Horror-Roleplaying-Hardback/dp/9189143922) (this is a non-affiliate link to Amazon), which inspired "class and race as story telling elements."
 - [Dimension 20](https://www.youtube.com/channel/UCC8zWIx8aBQme-x1nX9iZ0A), which showed me that a table-top roleplaying game could mean more than battles with monsters.
-- [Melee](https://thefantasytrip.game/products/core-games/melee/), which proved that the simplicity of a system does not diminish its intrigue.
+- [Melee](https://thefantasytrip.game/products/core-games/melee/), which demonstrates really well why 2D6 does not equal 1D12.
 - Killing Monsters, which is the first table-top role playing system I played and cultivated my love for TTRPGs. There is no link for it.
